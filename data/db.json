@@ -1,0 +1,15 @@
+{
+    "empresas": [
+      { "id_empresa": 1, "nome": "Empresa A", "cidade": "Cidade X" },
+      { "id_empresa": 2, "nome": "Empresa B", "cidade": "Cidade Y" }
+    ],
+    "escolas": [
+      { "id_escola": 1, "nome_escola": "Escola A", "sigla": "EA" },
+      { "id_escola": 2, "nome_escola": "Escola B", "sigla": "EB" }
+    ],
+    "cursos": [
+      { "id_curso": 1, "nome_curso": "Curso A", "id_escola": 1 },
+      { "id_curso": 2, "nome_curso": "Curso B", "id_escola": 2 }
+    ]
+  }
+  
